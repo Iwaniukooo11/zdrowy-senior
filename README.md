@@ -1,6 +1,6 @@
 # Aplikacja "Zdrowy senior"
 
-![](./readme/logo.png =320x320)
+<img src="./readme/logo.png" alt="Logo aplikacji" width="320"/>
 
 ## Na jakie potrzeby/problem odpowiada Wasze rozwiązanie?
 
@@ -99,7 +99,7 @@ Wszystkie ikonki użyte w projekcie są darmowe i pochodzą z serwisu fontawesom
 
 ## Opisz działanie Waszej aplikacji/narzędzia
 
-![](./readme/1.png =250x)
+<img src="./readme/1.png" alt="Screen aplikacji" width="320"/>
 
 Aplikacja zawiera 7 sekcji, a każda z nich zawiera określone informacje, bądź udostępnia użytkownikowi daną funkcjonalność.
 
@@ -122,7 +122,7 @@ Aplikacja zawiera 7 sekcji:
 
 ### Panel ratunku
 
-![](./readme/2.png =250x)
+<img src="./readme/2.png" alt="Screen aplikacji" width="320"/>
 
 Niestety, duża część osób w podeszłym wieku ma problemy ze zdrowiem. Potrzebują oni bieżącego kontaktu z opiekunem bądź osobami bliskimi. I vice versa - Te osoby chciałyby zostać natychmiastowo powiadomione, jeśli seniorowi coś będzie dolegać.
 
@@ -149,7 +149,7 @@ Dzięki stworzeniu panelu pomocy, zagrożony użytkownik przy użyciu kilku klik
 
 ### Pogoda
 
-![](./readme/3.png =250x)
+<img src="./readme/3.png" alt="Screen aplikacji" width="320"/>
 
 Podczas moich wywiadów z osobami starszymi, dowiedziałem się że najbardziej pożądaną funkcją w aplikacji jest pogoda. Dzięki niej, seniorzy nie musieliby czekać na określoną godzinę w celu sprawdzenia prognozy pogody w telewizji - Mogliby to zrobić wszędzie i o każdej porze.
 
@@ -173,7 +173,7 @@ Dzięki zastosowaniu sekcji pogody, senior może w prosty sposób oraz w dowolny
 
 ### Mycie rąk
 
-![](./readme/4.png =250x)
+<img src="./readme/4.png" alt="Screen aplikacji" width="320"/>
 
 Higiena jest rzeczą, której powinna przestrzegać każda osoba. W szczególności dotyczy to osób starszych, bardziej podatnych na zarażenia.
 
@@ -193,7 +193,7 @@ Dzięki wymienionej sekcji, osoby starsze, obarczone większym ryzykiem zachorow
 
 ### Leki
 
-![](./readme/5.png =250x)
+<img src="./readme/5.png" alt="Screen aplikacji" width="320"/>
 
 Problemem, z którym muszą na co dzień zmierzać się osoby starsze jest regularne branie leków. Jest to uciążliwie - Seniorzy często zapisują na kartkach, jakie powinni wziąć leki i o której godzinie. Można tą czynność uprościć poprzez zapisywanie leków w aplikacji - Oszczędzi to niepotrzebnego zużycia papieru i ułatwi trzymanie wszystkiego w jednym miejscu.
 
@@ -213,7 +213,7 @@ Dzięki sekcji leków, każdy senior może w jednym miejscu trzymać informacje 
 
 ### Sen
 
-![](./readme/6.png =250x)
+<img src="./readme/6.png" alt="Screen aplikacji" width="320"/>
 
 Nie można zapominać o tym, że jednym z czynników zdrowego życia jest odpowiednia ilość snu i odpoczynku.
 
@@ -232,7 +232,7 @@ Dzięki sekcji snu, starsza osoba może sprawdzić ile powinien trwać optymalny
 
 #### Zakażenia
 
-![](./readme/7.png =250x)
+<img src="./readme/7.png" alt="Screen aplikacji" width="320"/>
 
 W obecnym czasie pandemii COVID-19 podstawową informacją, którą chcą uzyskać osoby starsze jest dzienna ilość zachorowań w Polsce.
 
@@ -255,7 +255,7 @@ Na samym końcu umiejscowione jest zalecenie o zostaniu w domu, jeśli to możli
 
 ### Lekarze (Przychodnie w pobliżu )
 
-![](./readme/8.png =250x)
+<img src="./readme/8.png" alt="Screen aplikacji" width="320"/>
 
 Chociaż w obecnych czasach jest to utrudnione, część seniorów nadal podróżuje po Polsce i spędza czas w różnych miejscach.
 W sytuacji gorszego poczucia, ludzie ci chcieliby w prosty sposób znaleźć przychodnię lekarską.
