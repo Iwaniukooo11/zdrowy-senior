@@ -317,9 +317,6 @@ Alternatywną opcją jest użycie gotowych rozwiązań cloudowych. Swoje usługi
 
 Innym bardzo ważnym aspektem, który jest w pewnym stopniu fundamentem aplikacji jest system powiadomień. Obecny stan aplikacji oferuje tylko możliwość zapisywania ich nazwy oraz godziny wzięcia. Powiadomienia, które przypominałyby o wzięciu leku o danej godzinie z pewnością dałyby wiele korzyści dla użytkowników.
 
-??
-Następne aktualizacje oraz drogi rozwoju w głównej mierze zależałyby od feedbacku zgłoszonego przez użytkowników. Wprawdzie aplikacja ta nie powinna być traktowana jako aspekt podległy pod Start Up, bowiem projekt ma swój określony cel oraz zdefiniowaną grupę odbiorców. Nie mniej jednak niewykluczonym jest, że użytkownicy będą wymagać wprowadzenia nowych aktualizacji, co pociągnie za sobą potrzebę dokonania tak zwanego "Zwrotu", charakterystycznego dla Start Up'ów.
-
 Jednym z pomysłów na rozbudowanie aplikacji o kolejne sekcje jest możliwość dodawania określonych przychodni do swoich ulubionych, w celu możliwości posiadania ich pod ręką. W aspektach zdrowotnych oraz medycznych aplikacji, jednym z rozwiązań byłoby wprowadzenie elementów ze wspomnianej wcześniej aplikacji "eRecepta" - Z jeszcze prostszym interfejsem oraz z jeszcze łatwiejszym sposobem na użytkowanie. Niestety, niewykluczone że system logowania przestraszyłby starszych użytkowników, jednak warto spróbować wdrożyć takie rozwiązanie
 
 Podczas pisania aplikacji, sytuacja w Polsce oraz na świecie gwałtownie się zmieniała. Biznesplan obmyśliłem będąc w zielonej strefie, projekt tworzyłem będąc w żółtej, a kończyłem i udoskonalałem pracę będąc w strefie czerwonej. Dopiero pod koniec tworzenia projektu okazało się, że bardzo dobrym pomysłem byłaby sekcja, która na bazie lokalizacji, pokazywałaby w jakiej strefie znajduje się użytkownik, oraz jakie restrykcje obowiązują na danym terenie.
