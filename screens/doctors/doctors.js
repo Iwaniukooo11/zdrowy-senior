@@ -50,16 +50,15 @@ const Doctors = () => {
         let { status } = await Location.requestPermissionsAsync()
 
         if (status !== 'granted') {
-          throw new Error()
-          // showMessage({
-          //   message: 'Problem',
-          //   description: 'Proszę włączyć WiFi i GPS oraz załadować ponownie!',
-          //   type: 'default',
-          //   titleStyle: {
-          //     fontFamily: 'Rubik_400Regular',
-          //   },
-          //   style: { backgroundColor: theme.colorRedLight },
-          // })
+          showMessage({
+            message: 'Problem',
+            description: 'Proszę włączyć WiFi i GPS oraz załadować ponownie!',
+            type: 'default',
+            titleStyle: {
+              fontFamily: 'Rubik_400Regular',
+            },
+            style: { backgroundColor: theme.colorRedLight },
+          })
         }
 
         //Pobranie lokalizacji (miasta) użytkownika, zapisanie go w state oraz wywołanie funkcji, która pobierze dane z GoogleMaps
