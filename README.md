@@ -1,5 +1,10 @@
 # Aplikacja "Zdrowy senior"
 
+Aplikacja zawierająca wszystkie najważniejsze informacje i funkcjonalności potrzebne seniorom do codzinnego życia.
+Projekt stworzony na hackathon "Hack Heroes 2020" . Tematem tegorocznej edycji było zdrowie.
+
+Projekt w całości wykonany został przez Mateusza Iwaniuka
+
 <p align="center">
 <img src="./readme/logo.png" alt="Logo aplikacji" width="320"/>
 </p>
