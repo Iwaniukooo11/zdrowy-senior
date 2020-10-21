@@ -1,6 +1,8 @@
 # Aplikacja "Zdrowy senior"
 
+<p align="center">
 <img src="./readme/logo.png" alt="Logo aplikacji" width="320"/>
+</p>
 
 ## Na jakie potrzeby/problem odpowiada Wasze rozwiązanie?
 
