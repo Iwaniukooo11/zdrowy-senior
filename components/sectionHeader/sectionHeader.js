@@ -9,9 +9,6 @@ const SectionHeader = styled.Text`
   margin: 20px 0;
   text-align: left;
   color: ${(props) => props.theme[props.color] || props.theme.colorBlueLight};
-
-  &::first-letter {
-  }
 `
 
 const Header = (props) => {
