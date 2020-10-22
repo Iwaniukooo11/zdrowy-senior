@@ -1,6 +1,6 @@
 # Aplikacja "Zdrowy senior"
 
-Aplikacja zawierająca wszystkie najważniejsze informacje i funkcjonalności potrzebne seniorom do codzinnego życia.
+Aplikacja zawierająca wszystkie najważniejsze informacje i funkcjonalności potrzebne seniorom do codziennego życia.
 Projekt stworzony na hackathon "Hack Heroes 2020" . Tematem tegorocznej edycji było zdrowie.
 
 Projekt w całości wykonany został przez Mateusza Iwaniuka
@@ -12,7 +12,7 @@ Projekt w całości wykonany został przez Mateusza Iwaniuka
 ## Spis treści
 
 - [Na jakie potrzeby problem odpowiada Wasze rozwiązanie?](#problems)
-- [W jakich językach programowania, jakich technologiach powstała aplikacja lub narzędzie](#tech)
+- [W jakich językach programowania, jakich technologiach powstała aplikacja lub narzędzie?](#tech)
 - [Opisz działanie Waszej aplikacji/narzędzia](#working)
   - [Panel ratunku](#working-panel)
   - [Pogoda](#working-weather)
@@ -33,10 +33,10 @@ Projekt w całości wykonany został przez Mateusza Iwaniuka
 
 Mamy rok 2020. Następuje coraz większa cyfryzacja Polski oraz świata. Liczba osób korzystających z internetu regularnie wzrasta. Istnieje bardzo dużo aplikacji, których odbiorcami mają być z założenia osoby dorosłe, nastolatkowie, a nawet dzieci. W dobie pędzącego postępu technologicznego, w debacie publicznej, ale i na rozwijającym się rynku użytecznych dla codziennego życia aplikacji, często pomijane są potrzeby emerytów i seniorów.
 
-Panuje powszechna opinia, że w Polsce osoby starsze nie korzystają z internetu oraz komputera, smartfonów itp. Jest to błędne rozumowanie - Ilość seniorów korzystających ze smartfonów regularnie się zwiększa, a patrząc na rosnącą liczbę emerytów w Polsce (4 500 000 w 2004 roku, a już 6 435 000 w 2017 roku)<sup>[1](https://www.zadluzenia.com/liczba-emerytow-w-polsce)</sup>, można postawić tezę iż starszych użytkowników będzie regularnie przybywać.
+Panuje powszechna opinia, że w Polsce osoby starsze nie korzystają z internetu, komputera, smartfonów itp. Jest to błędne rozumowanie - Ilość seniorów korzystających ze smartfonów regularnie się zwiększa, a patrząc na rosnącą liczbę emerytów w Polsce (4 500 000 w 2004 roku, a już 6 435 000 w 2017 roku)<sup>[1](https://www.zadluzenia.com/liczba-emerytow-w-polsce)</sup>, można postawić tezę iż starszych użytkowników będzie regularnie przybywać.
 
 Ponadto kompetencje seniorów w dziedzinie nowych technologii wciąż rosną.
-W roku 2004 tylko 3% ludzi w wieku 65-74 używało smartfona. W 2017 było to już 14.9%, czyli około 950 000 osób<sup>[2](https://stat.gov.pl/obszary-tematyczne/nauka-i-technika-spoleczenstwo-informacyjne/spoleczenstwo-informacyjne/jak-korzystamy-z-internetu-2017,5,8.html)</sup>
+W Polsce, w roku 2004 tylko 3% ludzi w wieku 65-74 używało smartfona. W 2017 było to już 14.9%, czyli około 950 000 osób<sup>[2](https://stat.gov.pl/obszary-tematyczne/nauka-i-technika-spoleczenstwo-informacyjne/spoleczenstwo-informacyjne/jak-korzystamy-z-internetu-2017,5,8.html)</sup>
 Nie są to w każdym razie użytkownicy nieaktywni.
 W samym roku 2019 ponad 500 000 użytkowników w wieku 65+ miało założonych konto na facebooku. <sup>[3](https://napoleoncat.com/stats/facebook-users-in-poland/2019/06)</sup>
 
@@ -44,16 +44,16 @@ Wniosek z tego jest prosty - Regularnie rośnie w Polsce liczba seniorów korzys
 
 ---
 
-Powszechnie wiadomo, iż dla starszych ludzi wartością nadrzędną jest zdrowie. Szczególnie widoczne jest to teraz, w czasie pandemii. Seniorzy są największą grupą ryzyka. Zawsze zachęcani do "wyjścia z domu", dzisiaj muszą najlepiej w nich pozostać, aby być bezpieczni.
+Powszechnie wiadomo, iż dla starszych ludzi wartością nadrzędną jest zdrowie. Szczególnie widoczne jest to teraz, w czasie pandemii. Seniorzy są największą grupą ryzyka. Zawsze zachęcani do "wyjścia z domu", dzisiaj muszą w nich pozostać, aby być bezpieczni.
 
-Emeryci, często sami, muszą sprostać obecnym czasom. Popyt rodzi podaż - Zrobiłem własny mini-sondaż i zapytałem się emerytów (sąsiadów, rodzinę, rodzinę znajomych), jakie są informacje, które chcieliby mieć obecnie pod ręką.
+Emeryci, często sami, muszą sprostać obecnym czasom. Popyt rodzi podaż - Zrobiłem własny mini-sondaż i zapytałem się emerytów (sąsiadów, rodzinę, rodzinę znajomych), które informacje chcieliby mieć obecnie pod ręką.
 
 Oto wnioski które nasuwają się z tego sondażu:
 
 - Seniorzy chcą mieć przede wszystkim prosty i szybki dostęp do prognozy pogody oraz informacji o dziennych zarażeniach Covid-19.
 - Ankietowani chcieliby również posiadać możliwość zapisywania jaki mają wziąć lek i o której godzinie.
 - Bardziej aktywni i podróżujący po Polsce seniorzy chcieliby w prosty sposób znaleźć najbliższą placówkę pomocy medycznej w pobliżu miejsca, gdzie się akurat znajdują.
-- Ponadto opiekunowie oraz bliscy osób starszych chcieliby mieć szybki i prosty kontakt, a także natychmiastową możliwość otrzymania informacji, o potrzebie natychmiastowej pomocy.
+- Ponadto opiekunowie oraz bliscy osób starszych chcieliby miećz nimi szybki i prosty kontakt, a także możliwość szybko otrzymania informacji o potrzebie natychmiastowej pomocy.
 
 Po zebraniu tych wszystkich wiadomości doszedłem do wniosku, że wśród seniorów jest ogromne zapotrzebowanie na aplikację, która będzie zawierała w sobie:
 
@@ -61,9 +61,9 @@ Po zebraniu tych wszystkich wiadomości doszedłem do wniosku, że wśród senio
 - Informacje o dziennej ilości zakażeń
 - System zapisywania leków i godziny, o której trzeba je wziąć
 - Możliwość znalezienia przychodni w pobliżu
-- Panel alarmowy, w którym starszy użytkownik będzie mógł zgłosić, że potrzebuje pomocy, a opiekun lub bliscy pozostaną poinformowani
+- Panel alarmowy, w którym starszy użytkownik będzie mógł zgłosić, że potrzebuje pomocy, a opiekun lub bliscy zostaną poinformowani
 
-Obecnie seniorzy muszą korzystać z 5 różnych aplikacji lub stron internetowych, aby móc obsługiwać te funkcjonalności.
+Obecnie seniorzy muszą korzystać z 5 różnych aplikacji lub stron internetowych, aby móc obsługiwać powyższe funkcjonalności.
 
 Ponadto, w dobie pandemii, zapoznając się z wytycznymi Głównego Inspektoratu Sanitarnego, stwierdziłem że starszym ludziom przyda się również informacja o myciu rąk oraz odpowiedniej ilości snu.
 Dzięki temu wszystkie najważniejsze informacje dla seniorów będą dostępne w jednym miejscu.
@@ -153,6 +153,7 @@ Obecny stan projektu udostępnia użytkownikom 7 sekcji, do których można prze
 Jak wspomniano, głównymi odbiorcami aplikacji są seniorzy, dlatego też cały layout oraz design jest oparty o możliwie najprostszy interfejs w celu ułatwienia użytkowania. Dzięki zastosowanemu podejściu, nawet osoby nieobyte z technologiami poradzą sobie z użytkowaniem.
 
 Po włączeniu aplikacji, użytkownik pojawi się na stronie głównej i wyświetlą mu się kafelki z nazwami sekcji oraz czytelną i intuicyjną ikonką.
+Barwy aplikacji są białe, niebieskie oraz czarne. Biel oraz niebieski wpływają uspokajająco na organizm, dzięki czemu korzystanie z aplikacji dostarcza poczucia wypoczynku.
 
 Aplikacje zawierające dużo informacji często muszą się kojarzyć z przytłaczającą ilością tekstu - Nie jest to wygodne dla emerytów, którzy często mają problem ze wzrokiem czy koncentracją.
 Dlatego też w "Zdrowym Seniorze" zastosowano bardzo dużo ilustracji poglądowych oraz ikonek - Te w prostszy sposób przemawiają do użytkowników i zapewniają lepsze "User Experience".
@@ -214,7 +215,7 @@ Po przejściu do sekcji pogody senior zostanie poproszony o włączenie GPS w ce
 W przypadku odrzucenia prośby, wyświetla się komunikat informujący o tym, że do działania sekcji potrzebna jest lokalizacja GPS.
 
 Po niezauważalnie krótkiej chwili czekania, użytkownik zobaczy w jakim jest mieście. Jest to oznaczone czytelną ikonką pinezki.
-Dużym fontem napisana jest temperatura w stopniach Celsjuszach. Rzuca się ona w oczy dzięki większemu fontowi oraz niebieskiemu kolorowi. Obok wartości temperatury umiejscowiona jest ikonka termometru.
+Dużym fontem napisana jest temperatura w stopniach Celsjusza. Rzuca się ona w oczy dzięki większemu fontowi oraz niebieskiemu kolorowi. Obok wartości temperatury umiejscowiona jest ikonka termometru.
 
 Poniżej znajduje się tekst. Informuje on o tym, jaka jest sytuacja na zewnątrz. Możliwe warianty to:
 
@@ -376,7 +377,7 @@ Aplikacja jest obecnie w formie MVP (Minimum Viable product). Jest to dopiero po
 W przypadku rozwoju aplikacji, pierwszą rzeczą która powinna zostać rozwinięta oraz przez specjalistów, jest poprawienie działania sztucznej inteligencji. Projekt wprawdzie używa biblioteki tensorflow do przewidywania zakażeń, jednak jest to użyte tylko poglądowo.
 
 Po stronie aplikacji zachodzi zbyt wiele operacji (np wytrenowanie modelu), co może spowolnić słabsze telefony. Sam model nie jest wystarczająco skuteczny, bowiem jest trenowany na kilku danych z ostatnich dni. To stanowczo za mało - Do wytrenowania dobrze działającego modelu, trzeba użyć możliwie jak najwięcej danych. Trzeba wytrenować model na WSZYSTKICH zebranych informacjach na temat zarażeń od początku pandemii. Ponadto biblioteka również dużo waży i zabiera niepotrzebnie pamięć ROM.
-Nie zastosowałem tego rozwiązania nieumyślnie - Zaznaczam, że to świadomy wybór w celu pokazania, jak poglądowo aplikacja ma funkcjonować.
+Specjalnie zastosowałem to rozwiązanie - Zaznaczam, że to świadomy wybór w celu pokazania, jak poglądowo aplikacja ma funkcjonować.
 
 ---
 
@@ -389,7 +390,7 @@ Jednym z pomysłów na rozbudowanie aplikacji o kolejne sekcje jest możliwość
 
 Podczas pisania aplikacji, sytuacja w Polsce oraz na świecie gwałtownie się zmieniała. Biznesplan obmyśliłem będąc w zielonej strefie, projekt tworzyłem będąc w żółtej, a kończyłem i udoskonalałem pracę będąc w strefie czerwonej. Dopiero pod koniec tworzenia projektu okazało się, że bardzo dobrym pomysłem byłaby sekcja, która na bazie lokalizacji, pokazywałaby w jakiej strefie znajduje się użytkownik, oraz jakie restrykcje obowiązują na danym terenie.
 
-Wszystkie wymienione wcześniej propozycje rozwinęłyby to aplikację, nie odchodząc od jej założeń, czyli zebraniu najważniejszych informacji w jednym miejscu.
+Wszystkie wymienione wcześniej propozycje rozwinęłyby aplikację, nie odchodząc od jej założeń, czyli zebraniu najważniejszych informacji w jednym miejscu.
 
 <div id="risks">
 
@@ -404,13 +405,13 @@ Zastosowana technologia jest cały czas unowocześniana, co pozwala na przyszły
 Niestety, skuteczność aplikacji jest obarczona ryzykiem. Wszelkiego rodzaju wątpliwości nie dotyczą żadnych spraw informatycznych, lecz pieniężnych i marketingowych.
 
 Podstawowym wyzwaniem z jakim musiałby się zmierzyć projekt "Zdrowy Senior" jest sukcesywne wejście na rynek. Nie jest to aplikacja komercyjna. Nie zarabia ona na siebie oraz nie generuje przychodów.
-Istnieje wielkie prawdopodobieństwo, że po samym wrzuceniu aplikacji do Sklepu Play lub AppStore, ta nie zyskałaby żadnych użytkowników.  
+Istnieje wielkie prawdopodobieństwo, że po samym opublikowaniu aplikacji w Sklepie Play lub AppStore, ta nie zyskałaby żadnych użytkowników.  
 Ponadto, bez zysków żaden podmiot prywatny nie chciałby się podjąć zadania rozwoju takiej aplikacji, bowiem nie czerpałby z tego żadnej korzyści.
 
 Istnieje rozwiązanie na tą kwestię - Aplikacja musiałaby znajdować się pod opieką instytucji rządowych odpowiadających za projekty w zakresie cyfryzacji. Aplikacja miałaby wtedy zagwarantowaną kampanię marketingową oraz specjalistów, którzy by ją rozwijali.
 
 W przypadku odrzucenia projektu przez organy państwowe, dobrym pomysłem byłoby znalezienie fundacji lub stowarzyszenia, które byłoby w stanie rozpromować aplikację pod swoją marką, a także dostarczyłoby funduszy na jej rozwój.
-Niestety - Trzeba się liczyć z ryzykiem, że projekt zostanie odrzucony również przez organizację pozarządowe.
+Niestety - Trzeba się liczyć z ryzykiem, że projekt zostanie odrzucony również przez organizację pozarządowe jako niedochodowe.
 
 <div id="win">
 
@@ -418,7 +419,7 @@ Niestety - Trzeba się liczyć z ryzykiem, że projekt zostanie odrzucony równi
 
 </div>
 
-Nie wątpię w fakt, że na konkurs zostanie zgłoszonych bardzo dużo pomysłowych prac o merytorycznej zawartości. Nie mniej jednak, jestem przekonany, że mój projekt wyróżni się na tle innych aplikacji.
+Jestem pewien, że na konkurs zostanie zgłoszonych bardzo dużo pomysłowych prac o merytorycznej zawartości. Nie mniej jednak, również jestem przekonany, że mój projekt wyróżni się na tle innych aplikacji.
 
 Przede wszystkim, "Zdrowy Senior" wyróżnia się tym, że został stworzony dla grupy społecznej najbardziej ignorowanej w obecnych czasach. Emeryci są pomijanymi odbiorcami potencjalnych aplikacji.
 Na napisaną przeze mnie aplikację jest ogromne zapotrzebowanie.
@@ -427,7 +428,7 @@ Zebranie wszystkich najważniejszych informacji o zdrowiu, pandemii oraz higieni
 Aplikacja ma za zadanie zapewnić użytkownikom poczucie bezpieczeństwa oraz usprawnić codzienne czynności związane z ich zdrowiem. Istnieje duże prawdopodobieństwo, że może także komuś uratować życie. Dla sytuacji zagrażających bezpieczeństwu poświęcony jest cały Panel Ratunku.
 Chociaż odbiorcami będą seniorzy, z pewnością odciążeni zostaną również opiekunowie i bliscy chorej osoby. Jeśli tylko starsza osoba źle się poczuje, ci natychmiast zostaną o tym powiadomieni.
 
-Z aplikacji korzysta się bardzo komfortowo. Charakteryzuje się ona prostotą użytkowania, więc każdy potencjalny użytkownik może być pewien, że będzie w stanie z niej sukcesywnie skorzystać. Dzięki zastosowaniu technologii React Native, aplikacja jest szybka, co ułatwia przeglądanie informacji.
-Ponadto wprowadzenie przyszłych update'ów nie będzie wymagało dużego wysiłku. Kod napisany został przy użyciu najnowszych standardów oraz technologii.
+Z aplikacji korzysta się bardzo komfortowo. Charakteryzuje się ona prostotą użytkowania, więc każdy potencjalny użytkownik może być pewien, że będzie w stanie z niej sukcesywnie korzystać. Dzięki zastosowaniu technologii React Native, aplikacja jest szybka, co ułatwia przeglądanie informacji.
+Ponadto wprowadzenie przyszłych update'ów nie będzie wymagało dużego wysiłku. Kod napisany został przy użyciu najnowszych standardów oraz technologii. Wykorzystanu także sztuczną inteligencję, która pokaże seniorom możliwości obecnej nauki.
 
 Warto zaznaczyć również fakt, że aplikacja jest na telefon, nie jest to zaś program komputerowy lub strona www. Dzięki temu użytkownicy mogą z niej korzystać w każdym miejscu i o dowolnej porze.
