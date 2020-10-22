@@ -1,4 +1,3 @@
-
 # Aplikacja "Zdrowy senior"
 
 Aplikacja zawierająca wszystkie najważniejsze informacje i funkcjonalności potrzebne seniorom do codzinnego życia.
@@ -11,23 +10,24 @@ Projekt w całości wykonany został przez Mateusza Iwaniuka
 </p>
 
 ## Spis treści
-* [Na jakie potrzeby problem odpowiada Wasze rozwiązanie?](#problems)
-* [W jakich językach programowania, jakich technologiach powstała aplikacja lub narzędzie](#tech)
-* [Opisz działanie Waszej aplikacji/narzędzia](#working)
-  *  [Panel ratunku](#working-panel)
-   * [Pogoda](#working-weather) 
-   * [Mycie rąk](#working-hand)
-   * [Leki](#working-pills)
-   * [Sen](#working-bed)
-   * [Zakażenia](#working-virus)
-   * [Lekarze (Przychodnie w pobliżu)](#working-doctors)
-* [Jak widzicie dalszy rozwój Waszego rozwiązania](#future)
-* [Jakie widzicie zagrożenia/ryzyka dla Waszego rozwiązania?](#risks)
-* [Dlaczego akurat Wy powinniście wygrać?](#win)
+
+- [Na jakie potrzeby problem odpowiada Wasze rozwiązanie?](#problems)
+- [W jakich językach programowania, jakich technologiach powstała aplikacja lub narzędzie](#tech)
+- [Opisz działanie Waszej aplikacji/narzędzia](#working)
+  - [Panel ratunku](#working-panel)
+  - [Pogoda](#working-weather)
+  - [Mycie rąk](#working-hand)
+  - [Leki](#working-pills)
+  - [Sen](#working-bed)
+  - [Zakażenia](#working-virus)
+  - [Lekarze (Przychodnie w pobliżu)](#working-doctors)
+- [Jak widzicie dalszy rozwój Waszego rozwiązania](#future)
+- [Jakie widzicie zagrożenia/ryzyka dla Waszego rozwiązania?](#risks)
+- [Dlaczego akurat Wy powinniście wygrać?](#win)
 
 <div id="problems">
 
-## Na jakie potrzeby/problem odpowiada Wasze rozwiązanie? 
+## Na jakie potrzeby/problem odpowiada Wasze rozwiązanie?
 
 </div>
 
@@ -75,6 +75,14 @@ Podsumowując - W Polsce rośnie liczba użytkowników, którzy muszą używać 
 ## W jakich językach programowania, jakich technologiach powstała aplikacja/narzędzie?
 
 </div>
+
+<p align="center">
+
+<img src="./readme/react-icon.png" alt="Logo React" width="240"/>
+<img src="./readme/expo-icon.png" alt="Logo Expo" width="240"/>
+<img src="./readme/tensorflow-icon.png" alt="Logo Expo" width="240"/>
+
+</p>
 
 Do stworzenia aplikacji użyto **React Native** w oparciu o expo-cli, czyli najbardziej nowoczesnego narzędzia w 2020 roku, konkurującego z Flutterem.
 
@@ -130,7 +138,7 @@ Wszystkie ikonki użyte w projekcie są darmowe i pochodzą z serwisu fontawesom
 
 <div id="working">
 
-## Opisz działanie Waszej aplikacji/narzędzia 
+## Opisz działanie Waszej aplikacji/narzędzia
 
 </div>
 
