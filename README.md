@@ -78,9 +78,9 @@ Podsumowując - W Polsce rośnie liczba użytkowników, którzy muszą używać 
 
 <p align="center">
 
-<img src="./readme/react-icon.png" alt="Logo React" width="240"/>
-<img src="./readme/expo-icon.png" alt="Logo Expo" width="240"/>
-<img src="./readme/tensorflow-icon.png" alt="Logo Expo" width="240"/>
+<img src="./readme/react-icon.png" alt="Logo React" width="180"/>
+<img src="./readme/expo-icon.png" alt="Logo Expo" width="180"/>
+<img src="./readme/tensorflow-icon.png" alt="Logo Expo" width="180"/>
 
 </p>
 
