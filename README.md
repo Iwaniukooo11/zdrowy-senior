@@ -1,3 +1,4 @@
+
 # Aplikacja "Zdrowy senior"
 
 Aplikacja zawierająca wszystkie najważniejsze informacje i funkcjonalności potrzebne seniorom do codzinnego życia.
@@ -9,11 +10,30 @@ Projekt w całości wykonany został przez Mateusza Iwaniuka
 <img src="./readme/logo.png" alt="Logo aplikacji" width="320"/>
 </p>
 
-## Na jakie potrzeby/problem odpowiada Wasze rozwiązanie?
+## Spis treści
+* [Na jakie potrzeby problem odpowiada Wasze rozwiązanie?](#problems)
+* [W jakich językach programowania, jakich technologiach powstała aplikacja lub narzędzie](#tech)
+* [Opisz działanie Waszej aplikacji/narzędzia](#working)
+  *  [Panel ratunku](#working-panel)
+   * [Pogoda](#working-weather) 
+   * [Mycie rąk](#working-hand)
+   * [Leki](#working-pills)
+   * [Sen](#working-bed)
+   * [Zakażenia](#working-virus)
+   * [Lekarze (Przychodnie w pobliżu)](#working-doctors)
+* [Jak widzicie dalszy rozwój Waszego rozwiązania](#future)
+* [Jakie widzicie zagrożenia/ryzyka dla Waszego rozwiązania?](#risks)
+* [Dlaczego akurat Wy powinniście wygrać?](#win)
+
+<div id="problems">
+
+## Na jakie potrzeby/problem odpowiada Wasze rozwiązanie? 
+
+</div>
 
 Mamy rok 2020. Następuje coraz większa cyfryzacja Polski oraz świata. Liczba osób korzystających z internetu regularnie wzrasta. Istnieje bardzo dużo aplikacji, których odbiorcami mają być z założenia osoby dorosłe, nastolatkowie, a nawet dzieci. W dobie pędzącego postępu technologicznego, w debacie publicznej, ale i na rozwijającym się rynku użytecznych dla codziennego życia aplikacji, często pomijane są potrzeby emerytów i seniorów.
 
-Panuje powszechna opinia, że w Polsce osoby starsze nie korzystają z internetu oraz komputera, smartfonów itp. Jest to błędne rozumowanie - Ilość seniorów korzystających ze smartfonów regularnie się zwiększa, a patrząc na rosnącą liczbę emerytów w Polsce (4 500 000 w 2004 roku, a już 6 435 000 w 2017 roku) <sup>[1](https://www.zadluzenia.com/liczba-emerytow-w-polsce)</sup>, można postawić tezę iż starszych użytkowników będzie regularnie przybywać.
+Panuje powszechna opinia, że w Polsce osoby starsze nie korzystają z internetu oraz komputera, smartfonów itp. Jest to błędne rozumowanie - Ilość seniorów korzystających ze smartfonów regularnie się zwiększa, a patrząc na rosnącą liczbę emerytów w Polsce (4 500 000 w 2004 roku, a już 6 435 000 w 2017 roku)<sup>[1](https://www.zadluzenia.com/liczba-emerytow-w-polsce)</sup>, można postawić tezę iż starszych użytkowników będzie regularnie przybywać.
 
 Ponadto kompetencje seniorów w dziedzinie nowych technologii wciąż rosną.
 W roku 2004 tylko 3% ludzi w wieku 65-74 używało smartfona. W 2017 było to już 14.9%, czyli około 950 000 osób<sup>[2](https://stat.gov.pl/obszary-tematyczne/nauka-i-technika-spoleczenstwo-informacyjne/spoleczenstwo-informacyjne/jak-korzystamy-z-internetu-2017,5,8.html)</sup>
@@ -50,7 +70,11 @@ Dzięki temu wszystkie najważniejsze informacje dla seniorów będą dostępne 
 
 Podsumowując - W Polsce rośnie liczba użytkowników, którzy muszą używać wielu aplikacji, chcąc w kwestiach zdrowotnych pozyskać rożnego rodzaju informacje. Tymczasem moja aplikacja zawiera wszystkie te informacje w jednym miejscu.
 
-## W jakich językach programowania, jakich technologiach powstała aplikacja/narzędzie
+<div id="tech">
+
+## W jakich językach programowania, jakich technologiach powstała aplikacja/narzędzie?
+
+</div>
 
 Do stworzenia aplikacji użyto **React Native** w oparciu o expo-cli, czyli najbardziej nowoczesnego narzędzia w 2020 roku, konkurującego z Flutterem.
 
@@ -104,7 +128,11 @@ Inne biblioteki, których użyłem to:
 
 Wszystkie ikonki użyte w projekcie są darmowe i pochodzą z serwisu fontawesome.com
 
-## Opisz działanie Waszej aplikacji/narzędzia
+<div id="working">
+
+## Opisz działanie Waszej aplikacji/narzędzia 
+
+</div>
 
 <p align="center">
 <img src="./readme/1.png" alt="Screen aplikacji" width="240"/>
@@ -129,7 +157,11 @@ Podczas pobierania danych z serwera, gdy dana sekcja się jeszcze ładuje, na ek
 
 Aplikacja zawiera 7 sekcji:
 
+<div id="working-panel">
+
 ### Panel ratunku
+
+</div>
 
 <p align="center">
 <img src="./readme/2.png" alt="Screen aplikacji" width="240"/>
@@ -158,7 +190,11 @@ Dzięki stworzeniu panelu pomocy, zagrożony użytkownik przy użyciu kilku klik
 
 ---
 
+<div id="working-weather">
+
 ### Pogoda
+
+</div>
 
 <p align="center">
 <img src="./readme/3.png" alt="Screen aplikacji" width="240"/>
@@ -184,7 +220,11 @@ Dzięki zastosowaniu sekcji pogody, senior może w prosty sposób oraz w dowolny
 
 ---
 
+<div id="working-hand">
+
 ### Mycie rąk
+
+</div>
 
 <p align="center">
 <img src="./readme/4.png" alt="Screen aplikacji" width="240"/>
@@ -206,7 +246,11 @@ Dzięki wymienionej sekcji, osoby starsze, obarczone większym ryzykiem zachorow
 
 ---
 
+<div id="working-pills">
+
 ### Leki
+
+</div>
 
 <p align="center">
 <img src="./readme/5.png" alt="Screen aplikacji" width="240"/>
@@ -228,7 +272,11 @@ Dzięki sekcji leków, każdy senior może w jednym miejscu trzymać informacje 
 
 ---
 
+<div id="working-bed">
+
 ### Sen
+
+</div>
 
 <p align="center">
 <img src="./readme/6.png" alt="Screen aplikacji" width="240"/>
@@ -249,7 +297,11 @@ Dzięki sekcji snu, starsza osoba może sprawdzić ile powinien trwać optymalny
 
 ---
 
+<div id="working-virus">
+
 #### Zakażenia
+
+<div>
 
 <p align="center">
 <img src="./readme/7.png" alt="Screen aplikacji" width="240"/>
@@ -274,7 +326,11 @@ Na samym końcu umiejscowione jest zalecenie o zostaniu w domu, jeśli to możli
 
 ---
 
+<div id="working-doctors">
+
 ### Lekarze (Przychodnie w pobliżu )
+
+</div>
 
 <p align="center">
 <img src="./readme/8.png" alt="Screen aplikacji" width="240"/>
@@ -294,7 +350,11 @@ Dzięki sekcji przychodni w pobliżu, senior przebywający na nieznanym mu teren
 
 ---
 
+<div id="future">
+
 ## Jak widzicie dalszy rozwój Waszego rozwiązania?
+
+</div>
 
 Założenie aplikacji jest takie, że będzie ona rozwijana przez instytucje państwowe odpowiedzialne za projekty w zakresie cyfryzacji.
 Polska zaliczyła niejeden sukces w dziedzinie projektów informatycznych.
@@ -323,9 +383,11 @@ Podczas pisania aplikacji, sytuacja w Polsce oraz na świecie gwałtownie się z
 
 Wszystkie wymienione wcześniej propozycje rozwinęłyby to aplikację, nie odchodząc od jej założeń, czyli zebraniu najważniejszych informacji w jednym miejscu.
 
-//coś o zebraniu danych od seniorów bez komentarzy?
+<div id="risks">
 
 ## Jakie widzicie zagrożenia/ryzyka dla Waszego rozwiązania?
+
+</div>
 
 W projekcie "Zdrowy Senior" ciężko znaleźć jakieś zagrożenie lub ryzyko, bowiem aplikacja jest w pełni bezpieczna, nie zawiera nawet żadnych wrażliwych danych.
 Nie mam żadnych obaw co do problemów z użytkowaniem - Interfejs jest maksymalnie prosty.
@@ -342,7 +404,11 @@ Istnieje rozwiązanie na tą kwestię - Aplikacja musiałaby znajdować się pod
 W przypadku odrzucenia projektu przez organy państwowe, dobrym pomysłem byłoby znalezienie fundacji lub stowarzyszenia, które byłoby w stanie rozpromować aplikację pod swoją marką, a także dostarczyłoby funduszy na jej rozwój.
 Niestety - Trzeba się liczyć z ryzykiem, że projekt zostanie odrzucony również przez organizację pozarządowe.
 
+<div id="win">
+
 ## Dlaczego akurat Wy powinniście wygrać?
+
+</div>
 
 Nie wątpię w fakt, że na konkurs zostanie zgłoszonych bardzo dużo pomysłowych prac o merytorycznej zawartości. Nie mniej jednak, jestem przekonany, że mój projekt wyróżni się na tle innych aplikacji.
 
