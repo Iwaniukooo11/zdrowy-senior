@@ -5,6 +5,8 @@ Projekt stworzony na hackathon "Hack Heroes 2020" . Tematem tegorocznej edycji b
 
 Projekt w całości wykonany został przez Mateusza Iwaniuka
 
+Projekt testowany na urządzeniach z systemem Android
+
 <p align="center">
 <img src="./readme/logo.png" alt="Logo aplikacji" width="320"/>
 </p>
