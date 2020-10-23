@@ -163,6 +163,7 @@ Wszystkie wymienione funkcjonalności dają gwarancję, że starszy użytkownik 
 W przypadku błędu (na przykład wyłączony GPS podczas pobierania lokalizacji), aplikacja wyświetla odpowiedni komunikat na ekran.
 
 Podczas pobierania danych z serwera, gdy dana sekcja się jeszcze ładuje, na ekranie wyświetla się obracające kółeczko symbolizujące ładowanie.
+Warto tutaj podkreślić, że aplikacja jest płynna i ładuje się bardzo szybko. Kółko ładowania jest potrzebne, ponieważ najwięcej czasu wymaga pobranie danych z serwera, co jest czynnikiem niezależnym od programu.
 
 Aplikacja zawiera 7 sekcji:
 
