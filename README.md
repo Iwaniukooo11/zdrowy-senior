@@ -47,12 +47,12 @@ Istnieją dwa sposoby na skorzystanie z aplikacji:
 
 Mamy rok 2020. Następuje coraz większa cyfryzacja Polski oraz świata. Liczba osób korzystających z internetu regularnie wzrasta. Istnieje bardzo dużo aplikacji, których odbiorcami mają być z założenia osoby dorosłe, nastolatkowie, a nawet dzieci. W dobie pędzącego postępu technologicznego, w debacie publicznej, ale i na rozwijającym się rynku użytecznych dla codziennego życia aplikacji, często pomijane są potrzeby emerytów i seniorów.
 
-Panuje powszechna opinia, że w Polsce osoby starsze nie korzystają z internetu, komputera, smartfonów itp. Jest to błędne rozumowanie - Ilość seniorów korzystających ze smartfonów regularnie się zwiększa, a patrząc na rosnącą liczbę emerytów w Polsce (4 500 000 w 2004 roku, a już 6 435 000 w 2017 roku)<sup>[1](https://www.zadluzenia.com/liczba-emerytow-w-polsce)</sup>, można postawić tezę iż starszych użytkowników będzie regularnie przybywać.
+Panuje powszechna opinia, że w Polsce osoby starsze nie korzystają z internetu, komputera, smartfonów itp. Jest to błędne rozumowanie - Ilość seniorów korzystających ze smartfonów regularnie wzrasta, a patrząc na rosnącą liczbę emerytów w Polsce (4 500 000 w 2004 roku, a już 6 435 000 w 2017 roku)<sup>[1](https://www.zadluzenia.com/liczba-emerytow-w-polsce)</sup>, można postawić tezę iż starszych użytkowników będzie regularnie przybywać.
 
 Ponadto kompetencje seniorów w dziedzinie nowych technologii wciąż rosną.
-W Polsce, w roku 2004 tylko 3% ludzi w wieku 65-74 używało smartfona. W 2017 było to już 14.9%, czyli około 950 000 osób<sup>[2](https://stat.gov.pl/obszary-tematyczne/nauka-i-technika-spoleczenstwo-informacyjne/spoleczenstwo-informacyjne/jak-korzystamy-z-internetu-2017,5,8.html)</sup>
+W Polsce, w roku 2004 tylko 3% ludzi w wieku 65-74 używało smartfona. W 2017 było to już 14.9%, czyli około 950 000 osób <sup>[2](https://stat.gov.pl/obszary-tematyczne/nauka-i-technika-spoleczenstwo-informacyjne/spoleczenstwo-informacyjne/jak-korzystamy-z-internetu-2017,5,8.html)</sup>.
 Nie są to w każdym razie użytkownicy nieaktywni.
-W samym roku 2019 ponad 500 000 użytkowników w wieku 65+ miało założonych konto na facebooku. <sup>[3](https://napoleoncat.com/stats/facebook-users-in-poland/2019/06)</sup>
+W samym roku 2019 ponad 500 000 użytkowników w wieku 65+ posiadało konto na facebooku. <sup>[3](https://napoleoncat.com/stats/facebook-users-in-poland/2019/06)</sup>
 
 Wniosek z tego jest prosty - Regularnie rośnie w Polsce liczba seniorów korzystających ze smartfonów i będą oni coraz częstszymi odbiorcami różnego typu aplikacji.
 
@@ -79,10 +79,10 @@ Po zebraniu tych wszystkich wiadomości doszedłem do wniosku, że wśród senio
 
 Obecnie seniorzy muszą korzystać z 5 różnych aplikacji lub stron internetowych, aby móc obsługiwać powyższe funkcjonalności.
 
-Ponadto, w dobie pandemii, zapoznając się z wytycznymi Głównego Inspektoratu Sanitarnego, stwierdziłem że starszym ludziom przyda się również informacja o myciu rąk oraz odpowiedniej ilości snu.
+Ponadto, w dobie pandemii, zapoznając się z wytycznymi Głównego Inspektoratu Sanitarnego stwierdziłem, że starszym ludziom przyda się również informacja o myciu rąk oraz odpowiedniej ilości snu.
 Dzięki temu wszystkie najważniejsze informacje dla seniorów będą dostępne w jednym miejscu.
 
-Podsumowując - W Polsce rośnie liczba użytkowników, którzy muszą używać wielu aplikacji, chcąc w kwestiach zdrowotnych pozyskać różnego rodzaju informacje. Tymczasem moja aplikacja zawiera wszystkie te informacje w jednym miejscu.
+Podsumowując - W Polsce rośnie liczba użytkowników, którzy muszą używać wielu aplikacji, chcąc pozyskać różnego rodzaju informacje w kwestiach zdrowotnych. Tymczasem moja aplikacja zawiera wszystkie te informacje w jednym miejscu.
 
 <div id="tech">
 
@@ -194,7 +194,7 @@ Aplikacja zawiera 7 sekcji:
 Niestety, duża część osób w podeszłym wieku ma problemy ze zdrowiem. Potrzebują oni bieżącego kontaktu z opiekunem bądź osobami bliskimi. I vice versa - Te osoby chciałyby zostać natychmiast powiadomione, jeśli seniorowi coś będzie dolegać.
 
 W kryzysowej sytuacji, starszy człowiek może się skontaktować ze swoim bliskim poprzez panel pomocy.
-W założeniu, podpięty pod danego seniora opiekun lub bliski zostanie natychmiast powiadomiony (np drogą SMS) o włączeniu Panelu Ratunku przez starszą osobę. Dzięki tej funkcjonalności senior nie musi wybierać numeru telefonu, ani pisać SMS-a. Wystarczy jedno kliknięcie aby skontaktować się z opiekunem.
+W założeniu, podpięty pod danego seniora opiekun lub bliski zostanie natychmiast powiadomiony (np drogą SMS) o włączeniu Panelu Ratunku przez starszą osobę. Dzięki tej funkcjonalności senior nie musi wybierać numeru telefonu, ani pisać SMS-a. Wystarczy jedno kliknięcie, aby skontaktować się z opiekunem.
 
 Aplikacja jest zabezpieczona przed przypadkowym włączeniem panelu ratunku. Po kliknięciu na niego w menu głównym, użytkownik jest zapytany czy na pewno zagraża mu niebezpieczeństwo i czy chce powiadomić swojego bliskiego.
 
@@ -254,7 +254,7 @@ Dzięki zastosowaniu sekcji pogody, senior może w prosty sposób oraz w dowolny
 <img src="./readme/4.png" alt="Screen aplikacji" width="240"/>
 </p>
 
-Higiena jest rzeczą, której powinna przestrzegać każda osoba. W szczególności dotyczy to osób starszych, bardziej podatnych na zarażenia.
+Zasady higieny powinny być przestrzegane przez każdego. W szczególności dotyczy to osób starszych, bardziej podatnych na zarażenia.
 
 Podstawową praktyką stosowania higieny jest mycie rąk. Chociaż może się to wydawać nieprawdopodobne, nie wszyscy potrafią dokonać tej czynności w sposób prawidłowy.
 Ogłoszenia i kampanie o odpowiednim myciu rąk, które są prowadzone w formie wieszania plakatów w miejscach publicznych oraz rozdawania ulotek, mogą nie trafić do każdego.
