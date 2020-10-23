@@ -11,7 +11,8 @@ Projekt w całości wykonany został przez Mateusza Iwaniuka
 
 ## Spis treści
 
-- [Na jakie potrzeby problem odpowiada Wasze rozwiązanie?](#problems)
+- [Użycie aplikacji live](#usage)
+- [Na jakie potrzeby/problem odpowiada Wasze rozwiązanie?](#problems)
 - [W jakich językach programowania, jakich technologiach powstała aplikacja lub narzędzie?](#tech)
 - [Opisz działanie Waszej aplikacji/narzędzia](#working)
   - [Panel ratunku](#working-panel)
@@ -24,6 +25,19 @@ Projekt w całości wykonany został przez Mateusza Iwaniuka
 - [Jak widzicie dalszy rozwój Waszego rozwiązania](#future)
 - [Jakie widzicie zagrożenia/ryzyka dla Waszego rozwiązania?](#risks)
 - [Dlaczego akurat Wy powinniście wygrać?](#win)
+
+<div id="usage">
+
+## Użycie aplikacji live
+
+</div>
+
+Istnieją dwa sposoby na skorzystanie z aplikacji:
+
+- Pobranie jej z tego [linku](https://we.tl/t-wcmgtEml0k)
+
+- Zainstalowanie aplikacji "**expo**" oraz zeskanowanie nią poniższego kodu QR
+  <img src="./readme/expo.png" alt="Kod QR" width="260"/>
 
 <div id="problems">
 
@@ -53,7 +67,7 @@ Oto wnioski które nasuwają się z tego sondażu:
 - Seniorzy chcą mieć przede wszystkim prosty i szybki dostęp do prognozy pogody oraz informacji o dziennych zarażeniach Covid-19.
 - Ankietowani chcieliby również posiadać możliwość zapisywania jaki mają wziąć lek i o której godzinie.
 - Bardziej aktywni i podróżujący po Polsce seniorzy chcieliby w prosty sposób znaleźć najbliższą placówkę pomocy medycznej w pobliżu miejsca, gdzie się akurat znajdują.
-- Ponadto opiekunowie oraz bliscy osób starszych chcieliby miećz nimi szybki i prosty kontakt, a także możliwość szybko otrzymania informacji o potrzebie natychmiastowej pomocy.
+- Ponadto opiekunowie oraz bliscy osób starszych chcieliby mieć z nimi szybki i prosty kontakt, a także możliwość szybko otrzymania informacji o potrzebie natychmiastowej pomocy.
 
 Po zebraniu tych wszystkich wiadomości doszedłem do wniosku, że wśród seniorów jest ogromne zapotrzebowanie na aplikację, która będzie zawierała w sobie:
 
@@ -68,7 +82,7 @@ Obecnie seniorzy muszą korzystać z 5 różnych aplikacji lub stron internetowy
 Ponadto, w dobie pandemii, zapoznając się z wytycznymi Głównego Inspektoratu Sanitarnego, stwierdziłem że starszym ludziom przyda się również informacja o myciu rąk oraz odpowiedniej ilości snu.
 Dzięki temu wszystkie najważniejsze informacje dla seniorów będą dostępne w jednym miejscu.
 
-Podsumowując - W Polsce rośnie liczba użytkowników, którzy muszą używać wielu aplikacji, chcąc w kwestiach zdrowotnych pozyskać rożnego rodzaju informacje. Tymczasem moja aplikacja zawiera wszystkie te informacje w jednym miejscu.
+Podsumowując - W Polsce rośnie liczba użytkowników, którzy muszą używać wielu aplikacji, chcąc w kwestiach zdrowotnych pozyskać różnego rodzaju informacje. Tymczasem moja aplikacja zawiera wszystkie te informacje w jednym miejscu.
 
 <div id="tech">
 
@@ -177,14 +191,14 @@ Aplikacja zawiera 7 sekcji:
 <img src="./readme/2.png" alt="Screen aplikacji" width="240"/>
 </p>
 
-Niestety, duża część osób w podeszłym wieku ma problemy ze zdrowiem. Potrzebują oni bieżącego kontaktu z opiekunem bądź osobami bliskimi. I vice versa - Te osoby chciałyby zostać natychmiastowo powiadomione, jeśli seniorowi coś będzie dolegać.
+Niestety, duża część osób w podeszłym wieku ma problemy ze zdrowiem. Potrzebują oni bieżącego kontaktu z opiekunem bądź osobami bliskimi. I vice versa - Te osoby chciałyby zostać natychmiast powiadomione, jeśli seniorowi coś będzie dolegać.
 
 W kryzysowej sytuacji, starszy człowiek może się skontaktować ze swoim bliskim poprzez panel pomocy.
 W założeniu, podpięty pod danego seniora opiekun lub bliski zostanie natychmiast powiadomiony (np drogą SMS) o włączeniu Panelu Ratunku przez starszą osobę. Dzięki tej funkcjonalności senior nie musi wybierać numeru telefonu, ani pisać SMS-a. Wystarczy jedno kliknięcie aby skontaktować się z opiekunem.
 
 Aplikacja jest zabezpieczona przed przypadkowym włączeniem panelu ratunku. Po kliknięciu na niego w menu głównym, użytkownik jest zapytany czy na pewno zagraża mu niebezpieczeństwo i czy chce powiadomić swojego bliskiego.
 
-Aplikacja zapobiega powstaniu sytuacji, w której osoba powiadomiona nie ma dokładnych informacji, co się dzieje z poszkodowanym. Senior może ze swojego panelu jednym kliknięciem zaznaczyć dolegliwość, która mu dokucza. W aplikacji wymienione są przykładowe trzy:
+Aplikacja zapobiega powstawaniu sytuacji, w której osoba powiadomiona nie ma dokładnych informacji, co się dzieje z poszkodowanym. Senior może ze swojego panelu jednym kliknięciem zaznaczyć dolegliwość, która mu dokucza. W aplikacji wymienione są przykładowe trzy:
 
 - Źle się czuję
 - Nie mam leków
@@ -309,7 +323,7 @@ Dzięki sekcji snu, starsza osoba może sprawdzić ile powinien trwać optymalny
 
 <div id="working-virus">
 
-#### Zakażenia
+### Zakażenia
 
 <div>
 
@@ -323,7 +337,7 @@ Po przejściu do sekcji zakażeń, aplikacja pokazuje ilość przypadków dla ka
 Pod zestawieniem znajduje się prognoza na następny dzień dokonana przez sztuczną inteligencję. Bazuje ona na danych z ostatnich kilku dni i dokonuje predykcji na dzień następny. Interfejs jest prosty - pozwala na odczytanie dziennych zakażeń w prosty sposób, bez konieczności wchodzenia na ściśle specjalistyczne strony www.
 
 Wykorzystanie sztucznej inteligencji, poza prognozowaniem danych, spełnia dwie dodatkowe funkcje.
-Po pierwsze - Pokazuje użytkownikom, że taka technologia istnieje i odgrywa coraz większą role w życiu człowieka. Pozwala to na zaznajomienie seniorów z nowoczesną technologią. Pokazywanie prognoz na bazie Machine Learning'u może pozwolić starszym osobom na poszerzenie horyzontów oraz otworzenie okna na nowoczesny świat.
+Po pierwsze - Pokazuje użytkownikom, że taka technologia istnieje i odgrywa coraz większą rolę w życiu człowieka. Pozwala to na zaznajomienie seniorów z nowoczesną technologią. Pokazywanie prognoz na bazie Machine Learning'u może pozwolić starszym osobom na poszerzenie horyzontów oraz otworzenie okna na nowoczesny świat.
 O czym też wartość wspomnieć - Spoglądanie na predykcję i przyrównywanie jej następnego dnia do rzeczywistych wyników pełni funkcję rozrywki, ale jest to także aspekt naukowy. Starsi ludzie zdobędą sposobność do przekonania się, jak w jakim stopniu skuteczny jest obecny postęp technologiczny.
 
 Pod zestawieniem pokazuje się informacja o przyroście. Może on być:
