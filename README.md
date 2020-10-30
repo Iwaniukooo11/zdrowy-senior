@@ -36,7 +36,7 @@ Projekt testowany na urządzeniach z systemem Android
 
 Istnieją dwa sposoby na skorzystanie z aplikacji:
 
-- Pobranie jej z tego [linku](https://we.tl/t-wcmgtEml0k)
+- Pobranie jej z tego [linku](https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40toucanapps/zdrowy-senior-a56c8f9cc89344ad805ca86449840f99-signed.apk)
 
 - Zainstalowanie aplikacji "**expo**" oraz zeskanowanie nią poniższego kodu QR
   <img src="./readme/expo.png" alt="Kod QR" width="260"/>
